@@ -1,3 +1,6 @@
 Juan Manuel Henao Rodriguez
 17 años
 Con esta materia aspiro a extender mi conocimiento en la programacion y dominar los 4 pilares de la POO
+La carpeta 'archivos' ahora si se pudo subir porque ya no esta vacia por lo que ahora si representa un cambio
+
+Porque se genera un conflicto.
